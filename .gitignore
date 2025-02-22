@@ -35,3 +35,8 @@ trainings/gpt_trainings.txt
 
 # 👉 Ignorar dados de execução específicos
 *.sqlite3
+
+
+Langchain_sf_con_sample.py
+
+Langchain_sf_con_sample__copy.py
